@@ -53,7 +53,7 @@
 #### Setup bot on your Machine
 ```bash
 $ git clone https://github.com/ShirokamiRyzen/Nao-MD
-$ cd ./Nao-MD
+$ cd Nao-MD
 $ npm i
 ```
 
@@ -62,11 +62,11 @@ $ npm i
 ## Run
 
 ```bash
-node index.js
+$ npm start
 
 or
 
-node index.js --autocleartmp
+$ node index.js
 ```
 
 ---------
